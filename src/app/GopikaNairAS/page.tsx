@@ -37,7 +37,7 @@ export default function GopikaNairAS() {
                   About
                 </h2>
                 <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                  Second Year CSE student. Currently enhancing my web-development skills and exploring cybersecurity. Also passionate about creative writing. When I am not experimenting code and layouts, you'll probably find me diving into the world of science-fiction or chasing clues of murdering mysteries.</p>
+                  Second Year CSE student. Currently enhancing my web-development skills and exploring cybersecurity. Also passionate about creative writing. When I am not experimenting code and layouts, you will probably find me diving into the world of science-fiction or chasing clues of murdering mysteries!</p>
               </div>
 
               {/* Skills Section */}
